@@ -1,0 +1,20 @@
+FROM: Developers Society
+SUBJECT: TEST 3
+------------------------
+Kia ora, {firstname}
+
+Please RSVP via this form: https://forms.gle/ZQh5r9VoJ1LHjdNHA
+
+If you've signed up for our 2023 mentoring program, don't miss our Mentoring Launch Event. 🚀🚀 You'll get the chance to learn more about our program, connect with YOUR mentor/mentee, and meet other mentees and mentors. It's an excellent opportunity to network, make new friends, and understand what being a mentee or mentor is all about. Plus, there will be food.
+
+Event Details:
+
+Venue: Engineering 401-401
+
+Date: Wednesday, 31st May
+
+Time: 6:00 pm - 8:00 pm
+
+--
+Developers Society (DEVS)
+https://www.facebook.com/devsuoa
