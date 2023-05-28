@@ -22,9 +22,9 @@ def main():
         server.login(credentials['username'], credentials['app_password'])
 
         with open('mailing_list.csv', 'r') as csvfile:
-            reader = csv.DictReader(csvfile, delimiter='\t')
+            reader = csv.DictReader(csvfile)
 
-            print(f"Sending mail: {subject}...")
+            print(f"Sending mail: {subject}")
             for row in reader:
                 msg = EmailMessage()
                 msg['From'] = sender
