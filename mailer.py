@@ -26,17 +26,20 @@ def main():
 
             print(f"Sending mail: {subject}")
             for row in reader:
+                firstname = row['name'].split()[0]
+
                 msg = EmailMessage()
                 msg['From'] = sender
                 msg['To'] = row['email']
                 msg['Subject'] = subject
                 msg.set_content(body.replace(
-                    '{firstname}', row['firstname']), charset='utf-8')
+                    '{firstname}', firstname), charset='utf-8')
 
                 try:
                     server.sendmail(
                         credentials['username'], row['email'], msg.as_string())
-                    print("Email sent successfully to", row['email'])
+                    print("Email sent successfully to",
+                          row['email'], firstname)
                 except smtplib.SMTPException as e:
                     print("Failed to send email to ",
                           row['email'], " due to ", str(e))
