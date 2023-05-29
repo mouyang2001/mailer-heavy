@@ -1,20 +1,21 @@
 FROM: Developers Society
-SUBJECT: DEVS Mentoring Launch RSVP Request
+SUBJECT: POSTPONED DEVS Mentoring Launch
 ------------------------
 Kia ora, {firstname}
 
-Please RSVP via this form if you can make it: https://forms.gle/ZQh5r9VoJ1LHjdNHA
+We hope this message finds you well.
 
-If you’ve signed up for our 2023 mentoring program, don’t miss our Mentoring Launch Event. 🚀🚀 You’ll get the chance to learn more about our program, connect with YOUR mentor/mentee, and meet other mentees and mentors. It's an excellent opportunity to network, make new friends, and understand what being a mentee or mentor is all about. Plus, there will be food.
+Due to the culmination of the semester, and acknowledging the busy schedules of our mentors and mentees, we have decided to reschedule the DEVS Mentoring Launch Night. We regret to inform you that the original event planned for this evening has been canceled.
 
-Event Details:
+Our primary goal is to create an event that allows maximum participation, interaction, and value for all attendees. We understand that this decision may have caused some inconvenience and we deeply apologize for any disruption to your plans.
 
-Venue: Engineering 401-401
+We are excited about the opportunity to host this event at a more suitable time during the next semester, where we anticipate more availability from our valued mentors and mentees.
 
-Date: Wednesday, 31st May
+Updates regarding the new date and further details will be communicated to you at the earliest.
 
-Time: 6:00 pm - 8:00 pm
+Thank you for your understanding and patience. We are looking forward to welcoming you to the rescheduled DEVS Mentoring Launch Night.
 
+Ngā mihi
 
 -- 
 Developers Society (DEVS)
